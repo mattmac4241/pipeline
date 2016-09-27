@@ -152,6 +152,6 @@ deploy:
 
        space: $SPACE
 
-       appname: wercker-step-hello
+       appname: pipeline
 
        docker_image: mattmac4241/pipeline
