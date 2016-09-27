@@ -128,7 +128,7 @@ deploy:
 
        password: $DOCKER_PASSWORD
 
-       cmd: /pipeline/source/hello
+       cmd: /pipeline/source/pipeline
 
        port: "8080"
 
